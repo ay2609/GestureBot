@@ -1,2 +1,4 @@
 .DS_Store
 .idea/
+snapshot_20.pth.tar
+*.pth.tar
